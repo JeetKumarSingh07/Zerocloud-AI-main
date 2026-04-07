@@ -1,0 +1,1 @@
+{"version":3,"file":"LlamaCppProvider.d.ts","sourceRoot":"","sources":["../src/LlamaCppProvider.ts"],"names":[],"mappings":"AAAA;;;;;;;;;GASG;AA6EH,eAAO,MAAM,gBAAgB;IAC3B,mDAAmD;2BAC/B,OAAO;IAI3B;;;;;;;;;;;OAWG;4BAC2B,MAAM,GAAG,QAAQ,GAAG,KAAK,GAAG,OAAO,CAAC,IAAI,CAAC;IAmBvE;;OAEG;kBACW,IAAI;CAGnB,CAAC"}

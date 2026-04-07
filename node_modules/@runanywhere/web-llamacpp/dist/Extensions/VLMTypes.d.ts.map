@@ -1,0 +1,1 @@
+{"version":3,"file":"VLMTypes.d.ts","sourceRoot":"","sources":["../../src/Extensions/VLMTypes.ts"],"names":[],"mappings":"AAAA;;;;;GAKG;AAGH,OAAO,EACL,cAAc,EACd,KAAK,QAAQ,EACb,KAAK,oBAAoB,EACzB,KAAK,mBAAmB,EACxB,KAAK,kBAAkB,GACxB,MAAM,kBAAkB,CAAC;AAE1B,0DAA0D;AAC1D,oBAAY,cAAc;IACxB,IAAI,IAAI;IACR,OAAO,IAAI;IACX,OAAO,IAAI;IACX,KAAK,IAAI;IACT,MAAM,KAAK;CACZ"}
